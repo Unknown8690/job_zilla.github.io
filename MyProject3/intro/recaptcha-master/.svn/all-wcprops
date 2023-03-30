@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/.travis.yml
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/CONTRIBUTING.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Tradgo/!svn/ver/1/intro/recaptcha-master/README.md
+END

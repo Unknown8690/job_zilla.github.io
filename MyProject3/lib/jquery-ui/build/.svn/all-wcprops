@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Tradgo/!svn/ver/1/lib/jquery-ui/build
+END
+themes
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Tradgo/!svn/ver/1/lib/jquery-ui/build/themes
+END
+release-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Tradgo/!svn/ver/1/lib/jquery-ui/build/release-test.js
+END
+release.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Tradgo/!svn/ver/1/lib/jquery-ui/build/release.js
+END

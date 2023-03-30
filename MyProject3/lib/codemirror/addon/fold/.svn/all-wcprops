@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold
+END
+comment-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/comment-fold.js
+END
+markdown-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/markdown-fold.js
+END
+foldgutter.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/foldgutter.css
+END
+brace-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/brace-fold.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/foldcode.js
+END
+foldgutter.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/foldgutter.js
+END
+xml-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/xml-fold.js
+END
+indent-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Tradgo/!svn/ver/1/lib/codemirror/addon/fold/indent-fold.js
+END

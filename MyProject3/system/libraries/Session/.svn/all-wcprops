@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Tradgo/!svn/ver/1/system/libraries/Session
+END
+CI_Session_driver_interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/CI_Session_driver_interface.php
+END
+SessionUpdateTimestampHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/SessionUpdateTimestampHandlerInterface.php
+END
+Session_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/Session_driver.php
+END
+SessionHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/SessionHandlerInterface.php
+END
+OldSessionWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/OldSessionWrapper.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/Session.php
+END
+PHP8SessionWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/PHP8SessionWrapper.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Tradgo/!svn/ver/1/system/libraries/Session/index.html
+END
